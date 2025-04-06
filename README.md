@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Anish Shree Kandel (Kady)</h1>
-<h3 align="center">a Coventry University graduate with First-Class Honors BSc in Computing, Python-Django learner & Mentor, web builder & creator and designer. Self interning on web3 startups, chainbase.</h3>
+<h3 align="center">Coventry University graduate with First-Class Honors BSc in Computing, Python-Django learner & Mentor, web builder & creator and designer. Self interning on web3 startups i.e. chainbase.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishkandel&label=Profile%20views&color=0e75b6&style=flat" alt="anishkandel" /> </p>
 
