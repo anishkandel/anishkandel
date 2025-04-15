@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Python, Web3 Full Stack Web Development**
 
-- 🤝 I’m looking for help with [Chainbase](https://github.com/anishkandel/manuscript-core)
+- 🤝 I’m part-time working as tech administrator on [Chainbase (https://chainbase.com/)]
 
 - 👨‍💻 All of my projects are available at [https://anishshreekandel.gitbook.io/kady](https://anishshreekandel.gitbook.io/kady)
 
