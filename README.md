@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkandel" alt="anishkandel" /></a> </p>
 
-- 🔭 I’m currently working on the Yuna AI Agent
+- 🔭 I’m currently working on the Yuna AI Agent [https://github.com/anishkandel/Twitter-AI-Agent-Yuna]
 
 - 🌱 I’m currently learning **Python, Web3 Full Stack Web Development** [100DaysPythonCodeBootcamp](https://github.com/anishkandel/100DaysOfPythonCodeBootcamp)
 
