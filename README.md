@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on the Yuna AI Agent https://github.com/anishkandel/Twitter-AI-Agent-Yuna
 
-- 🌱 I’m currently learning **Python, Web3 Full Stack Web Development** 100DaysPythonCodeBootcamp](https://github.com/anishkandel/100DaysOfPythonCodeBootcamp)
+- 🌱 Python is my daily routine **Python, Web3 Full Stack Web Development** 100DaysPythonCodeBootcamp](https://github.com/anishkandel/100DaysOfPythonCodeBootcamp)
 
 - 🤝 I’m part-time working as tech administrator on [Chainbase (https://chainbase.com/)]
 
