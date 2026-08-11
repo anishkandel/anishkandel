@@ -16,24 +16,25 @@
 - **AI & Deployment:** OpenAI, Claude, NotebookLM, Vercel, Render, Hostinger, Domain & DNS Management
 
 ### 🚀 Live Projects & Portfolio
-🔗 **[Kotahi Tāra](https://kotahi-tara.vercel.app)** — Crowdfunding platform with authentication, payments, cloud storage, and full deployment. Built with React, Tailwind, Firebase, and Vercel.
-🔗 **[ReMedi](https://remediapp.vercel.app)** — Medication reminder + drug interaction checker. Built with React, Vite, Tailwind CSS, and AWS services.
-🔗 **[RPS Mobile App UI (Figma)](https://www.figma.com/design/imbcUWsJzFuqYKIg3yV7or/RPS-Design)** — Interactive commercial mobile prototype designed in Figma.
-🔗 **[Agency Website](https://anishkandel.github.io/agency-website/)** — Modern agency-style website with responsive layouts and clean navigation.
-🔗 **[Funding Compliance Prototype](https://anishkandel.github.io/Rauawaawa-Kaum-tua-Trust/)** — Dashboard prototype with workflows, notifications, document management, and theme customization.
-🔗 **[Tasty Food Website](https://anishkandel.github.io/Tasty-Food/)** — Responsive restaurant website with modern UI.
-🔗 **[Inbox Navigator](https://anishkandel.github.io/mailnav/)** — Interactive data visualization interface with filters and chart views.
-🔗 **[Fab Four Milestone Charts](https://anishkandel.github.io/fab-four-milestone/)** — Data visualization interface with comparison charts and filters.
+
+- 🔗 **[Kotahi Tāra](https://kotahi-tara.vercel.app)** — Crowdfunding platform with authentication, payments, cloud storage, and full deployment. Built with React, Tailwind, Firebase, and Vercel.
+- 🔗 **[ReMedi](https://remediapp.vercel.app)** — Medication reminder + drug interaction checker. Built with React, Vite, Tailwind CSS, and AWS services.
+- 🔗 **[RPS Mobile App UI (Figma)](https://www.figma.com/design/imbcUWsJzFuqYKIg3yV7or/RPS-Design)** — Interactive commercial mobile prototype designed in Figma.
+- 🔗 **[Agency Website](https://anishkandel.github.io/agency-website/)** — Modern agency-style website with responsive layouts and clean navigation.
+- 🔗 **[Funding Compliance Prototype](https://anishkandel.github.io/Rauawaawa-Kaum-tua-Trust/)** — Dashboard prototype with workflows, notifications, document management, and theme customization.
+- 🔗 **[Tasty Food Website](https://anishkandel.github.io/Tasty-Food/)** — Responsive restaurant website with modern UI.
+- 🔗 **[Inbox Navigator](https://anishkandel.github.io/mailnav/)** — Interactive data visualization interface with filters and chart views.
+- 🔗 **[Fab Four Milestone Charts](https://anishkandel.github.io/fab-four-milestone/)** — Data visualization interface with comparison charts and filters.
 
 ### 🧠 Currently Working On
 
-🤖 **Yuna AI Agent** — Twitter automation + AI workflows → [github.com/anishkandel/Twitter-AI-Agent-Yuna](https://github.com/anishkandel/Twitter-AI-Agent-Yuna)
-💼 **Hiko Media Internship** (Web Development)
+- 🤖 **Yuna AI Agent** — Twitter automation + AI workflows → [github.com/anishkandel/Twitter-AI-Agent-Yuna](https://github.com/anishkandel/Twitter-AI-Agent-Yuna)
+- 💼 **Hiko Media Internship** (Web Development)
 
 ### 📫 Contact Me
 
-✉️ Email: [anishkandel100@gmail.com](mailto:anishkandel100@gmail.com)
-💼 LinkedIn: [linkedin.com/in/anishshreekandel](https://linkedin.com/in/anishshreekandel)
+- ✉️ Email: [anishkandel100@gmail.com](mailto:anishkandel100@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/anishshreekandel](https://linkedin.com/in/anishshreekandel)
 
 ### ⚡ Fun Fact
 Movies, foods 😋, and travel freak
@@ -59,6 +60,7 @@ Movies, foods 😋, and travel freak
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
 <a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/> </a>
+
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="adobexd" width="40" height="40"/> </a>
 <a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
