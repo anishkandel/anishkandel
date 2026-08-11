@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Anish Kandel (Kady)</h1>
 <h3 align="center">Full-Stack Web Developer • Python / AWS / SAP Learner • Web Builder & Designer</h3>
-<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="[https://linkedin.com/in/anishkandel](https://www.linkedin.com/in/anishkandel/)">LinkedIn</a></p>
+<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a></p>
 
 <p align="center">
 I build modern, responsive websites, full-stack applications, and clean UI/UX experiences.
 Focused on Python, React, Next.js, Tailwind CSS, and Web3 technologies and currently exploring
 AI agents & research, web design, desvelopments and deployment
 </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkandel&theme=flat&no-frame=true&row=1" alt="anishkandel" /></a> </p>
 
 <br>
 
