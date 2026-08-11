@@ -1,79 +1,108 @@
 <h1 align="center">Hi 👋, I'm Anish Kandel (Kady)</h1>
-<h3 align="center">Full-Stack Web Developer • MIT Student • Python/AWS/SAP Learner • Web Builder & Designer</h3>
-<h4 align="center">📍 Hamilton, New Zealand</h4>
+<h3 align="center">Full-Stack Web Developer • Python / AWS / SAP Learner • Web Builder & Designer</h3>
+<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="[https://linkedin.com/in/anishkandel](https://www.linkedin.com/in/anishkandel/)">LinkedIn</a></p>
 
-<p align="center">I build modern, responsive websites, full-stack applications, and clean UI/UX experiences. Passionate about Python, React, Next.js, Tailwind CSS, and Web3 technologies. Currently exploring AI agents, cloud deployment, and startup-style product development.</p>
+<p align="center">
+I build modern, responsive websites, full-stack applications, and clean UI/UX experiences.
+Focused on Python, React, Next.js, Tailwind CSS, and Web3 technologies and currently exploring
+AI agents & research, web design, desvelopments and deployment
+</p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkandel" alt="anishkandel" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkandel&theme=flat&no-frame=true&row=1" alt="anishkandel" /></a> </p>
 
-### 🛠️ Skills
+<br>
 
-- **Web:** HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
-- **Design & UI/UX:** Figma, Adobe XD, Canva, Wireframing, Prototyping, Responsive Design
-- **CMS:** WordPress, Wix, Shopify
-- **Programming:** Python, Django, SQL
-- **Tools:** Git, GitHub, Jira, Trello, Postman
-- **AI & Deployment:** OpenAI, Claude, NotebookLM, Vercel, Render, Hostinger, Domain & DNS Management
+## 🧰 Technical Skills
 
-### 🚀 Live Projects & Portfolio
+**Web**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- 🔗 **[Kotahi Tāra](https://kotahi-tara.vercel.app)** — Crowdfunding platform with authentication, payments, cloud storage, and full deployment. Built with React, Tailwind, Firebase, and Vercel.
-- 🔗 **[ReMedi](https://remediapp.vercel.app)** — Medication reminder + drug interaction checker. Built with React, Vite, Tailwind CSS, and AWS services.
-- 🔗 **[RPS Mobile App UI (Figma)](https://www.figma.com/design/imbcUWsJzFuqYKIg3yV7or/RPS-Design)** — Interactive commercial mobile prototype designed in Figma.
-- 🔗 **[Agency Website](https://anishkandel.github.io/agency-website/)** — Modern agency-style website with responsive layouts and clean navigation.
-- 🔗 **[Funding Compliance Prototype](https://anishkandel.github.io/Rauawaawa-Kaum-tua-Trust/)** — Dashboard prototype with workflows, notifications, document management, and theme customization.
-- 🔗 **[Tasty Food Website](https://anishkandel.github.io/Tasty-Food/)** — Responsive restaurant website with modern UI.
-- 🔗 **[Inbox Navigator](https://anishkandel.github.io/mailnav/)** — Interactive data visualization interface with filters and chart views.
-- 🔗 **[Fab Four Milestone Charts](https://anishkandel.github.io/fab-four-milestone/)** — Data visualization interface with comparison charts and filters.
+**Programming & Data**
+<br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🧠 Currently Working On
+**Design & UI/UX**
+<br>
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Wireframing](https://img.shields.io/badge/Wireframing-6C757D?style=for-the-badge)
+![Prototyping](https://img.shields.io/badge/Prototyping-6C757D?style=for-the-badge)
+![Responsive Design](https://img.shields.io/badge/Responsive_Design-6C757D?style=for-the-badge)
 
-- 🤖 **Yuna AI Agent** — Twitter automation + AI workflows → [github.com/anishkandel/Twitter-AI-Agent-Yuna](https://github.com/anishkandel/Twitter-AI-Agent-Yuna)
-- 💼 **Hiko Media Internship** (Web Development)
+**CMS & E-commerce**
+<br>
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Wix](https://img.shields.io/badge/Wix-0C6EFC?style=for-the-badge&logo=wix&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
 
-### 📫 Contact Me
+**Tools & Workflow**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-- ✉️ Email: [anishkandel100@gmail.com](mailto:anishkandel100@gmail.com)
-- 💼 LinkedIn: [linkedin.com/in/anishshreekandel](https://linkedin.com/in/anishshreekandel)
+**AI & Deployment**
+<br>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![NotebookLM](https://img.shields.io/badge/NotebookLM-6C757D?style=for-the-badge)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+![DNS](https://img.shields.io/badge/Domain_%26_DNS-6C757D?style=for-the-badge)
 
-### ⚡ Fun Fact
-Movies, foods 😋, and travel freak
+<br>
 
-<h3 align="left">Connect with me:</h3>
+## 🚀 Featured Projects
+
+| Project | Stack | Description |
+|---|---|---|
+| **[Kotahi Tāra](https://kotahi-tara.vercel.app)** | React · Tailwind · Firebase · Vercel | Crowdfunding platform with authentication, payments, cloud storage, and full deployment |
+| **[ReMedi](https://remediapp.vercel.app)** | React · Vite · Tailwind · AWS | Medication reminder and drug-interaction checker |
+| **[RPS Mobile App UI](https://www.figma.com/design/imbcUWsJzFuqYKIg3yV7or/RPS-Design)** | Figma | Interactive commercial mobile app prototype |
+| **[Agency Website](https://anishkandel.github.io/agency-website/)** | HTML · CSS · JS | Modern agency-style site with responsive layouts and clean navigation |
+| **[Funding Compliance Dashboard](https://anishkandel.github.io/Rauawaawa-Kaum-tua-Trust/)** | HTML · CSS · JS | Dashboard prototype with workflows, notifications, and document management, built for a real client |
+| **[Tasty Food Website](https://anishkandel.github.io/Tasty-Food/)** | HTML · CSS · JS | Responsive restaurant website with modern UI |
+| **[Inbox Navigator](https://anishkandel.github.io/mailnav/)** | JS · Data Viz | Interactive data visualization interface with filters and chart views |
+| **[Fab Four Milestone Charts](https://anishkandel.github.io/fab-four-milestone/)** | JS · Data Viz | Comparison chart interface with dynamic filters |
+
+<br>
+
+## 🧠 Currently Building & Learning
+
+- **Yuna AI Agent** - Twitter automation and AI-driven workflows → [github.com/anishkandel/Twitter-AI-Agent-Yuna](https://github.com/anishkandel/Twitter-AI-Agent-Yuna)
+- **Hiko Media Internship** - Web development
+- ** AWS Cloud - Coursera
+- **SAP - Centrix Consulting
+
+<br>
+
+## 📊 GitHub Stats
+
 <p align="left">
-<a href="https://twitter.com/kadybit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadybit" height="30" width="40" /></a>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=anishkandel&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="anishkandel stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anishkandel&layout=compact&theme=dark&hide_border=true" alt="anishkandel top languages" />
+</p>
+<p align="left">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anishkandel&theme=dark&hide_border=true" alt="anishkandel streak stats" />
+</p>
+
+<br>
+
+## 🤝 Connect With Me
+
+<p align="left">
 <a href="https://linkedin.com/in/anishshreekandel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anishshreekandel" height="30" width="40" /></a>
+<a href="https://twitter.com/kadybit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kadybit" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-<a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="tailwindcss" width="40" height="40"/> </a>
-<a href="https://www.javascript.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vitejs/vitejs-original.svg" alt="vite" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-<a href="https://vercel.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/vercel.svg" alt="vercel" width="40" height="40"/> </a>
-
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-<a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-plain.svg" alt="adobexd" width="40" height="40"/> </a>
-<a href="https://wordpress.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/wordpress-icon.svg" alt="wordpress" width="40" height="40"/> </a>
-<a href="https://www.shopify.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/shopify.svg" alt="shopify" width="40" height="40"/> </a>
-<a href="https://www.sap.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sap/sap-icon.svg" alt="sap" width="40" height="40"/> </a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a>
-<a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-1.svg" alt="jira" width="40" height="40"/> </a>
-<a href="https://trello.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain.svg" alt="trello" width="40" height="40"/> </a>
-<a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-<a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/openai-2.svg" alt="openai" width="40" height="40"/> </a>
-</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anishkandel&show_icons=true&locale=en&layout=compact" alt="anishkandel" /></p>
