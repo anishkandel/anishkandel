@@ -8,6 +8,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anishkandel" alt="anishkandel" /></a> </p>
 
+### 🛠️ Skills
+
+- **Web:** HTML5, CSS3, JavaScript, React, Next.js, Tailwind CSS
+- **Design & UI/UX:** Figma, Adobe XD, Canva, Wireframing, Prototyping, Responsive Design
+- **CMS:** WordPress, Wix, Shopify
+- **Programming:** Python, Django, SQL
+- **Tools:** Git, GitHub, Jira, Trello, Postman
+- **AI & Deployment:** OpenAI, Claude, NotebookLM, Vercel, Render, Hostinger, Domain & DNS Management
+
 ### 🚀 Live Projects & Portfolio
 
 - 🔗 **[Kotahi Tāra](https://kotahi-tara.vercel.app)** — Crowdfunding platform with authentication, payments, cloud storage, and full deployment. Built with React, Tailwind, Firebase, and Vercel.
