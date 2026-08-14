@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anish Kandel (Kady)</h1>
 <h3 align="center">Full-Stack Web Developer • Python / AWS / SAP Learner • Web Builder & Designer</h3>
-<p align="center">📍 Hamilton, New Zealand</p>
-<p><a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://kady-dev.vercel.app/">Portolio</a></p>
+<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a> &nbsp;|&nbsp; <a href="https://kady-dev.vercel.app/">Portolio</a></p>
 
 
 <p align="center">
