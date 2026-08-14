@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Kandel (Kady)</h1>
 <h3 align="center">Full-Stack Web Developer • Python / AWS / SAP Learner • Web Builder & Designer</h3>
-<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a></p>
+<p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a></p> <a href="https://kady-dev.vercel.app/">Portolio</a> &nbsp;|
+
 
 <p align="center">
 Hi, I am Anish Kandel, a Full‑stack web developer and MIT student at the University of Waikato with strong frontend experience and solid understanding of web design, development, & deployment. Actively expanding into AWS and SAP to build broader technical capability. Currently seeking entry‑level IT roles or internships to learn, contribute, and grow.
