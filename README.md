@@ -3,9 +3,7 @@
 <p align="center">📍 Hamilton, New Zealand &nbsp;|&nbsp; ✉️ <a href="mailto:anishkandel100@gmail.com">anishkandel100@gmail.com</a> &nbsp;|&nbsp; <a href="https://www.linkedin.com/in/anishkandel/">LinkedIn</a></p>
 
 <p align="center">
-I build modern, responsive websites, full-stack applications, and clean UI/UX experiences.
-Focused on Python, React, Next.js, Tailwind CSS, and Web3 technologies and currently exploring
-AI agents & research, web design, desvelopments and deployment
+Hi, I am Anish Kandel, a Full‑stack web developer and MIT student at the University of Waikato with strong frontend experience and solid understanding of web design, development, & deployment. Actively expanding into AWS and SAP to build broader technical capability. Currently seeking entry‑level IT roles or internships to learn, contribute, and grow.
 </p>
 
 <br>
